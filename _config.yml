@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: DSCI350: Medieval Magic Project
+title: "DSCI350: Medieval Magic Project"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A curated collection of magical artifcals from the medieval ages.
+tagline: "A curated collection of magical artifcals from the medieval ages."
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Our project is looking at items related to medieval magical practices. As medicine, religion and magic were intertwined in the era, the collection includes mythical/religious iconography, alchemical texts, and items purported to have magical effects. We draw from a wide variety of objects for our collection to express the ubiquitous presence of magic in medieval life. This collection will be useful for folklorists, historians, and laypeople looking for a place to start in their research. The medieval era has been very influential within modern storytelling, so studying our collection will help others understand the development of storytelling throughout history. 
+description: "Our project is looking at items related to medieval magical practices. As medicine, religion and magic were intertwined in the era, the collection includes mythical/religious iconography, alchemical texts, and items purported to have magical effects. We draw from a wide variety of objects for our collection to express the ubiquitous presence of magic in medieval life. This collection will be useful for folklorists, historians, and laypeople looking for a place to start in their research. The medieval era has been very influential within modern storytelling, so studying our collection will help others understand the development of storytelling throughout history."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: "Claire O'Connor & Vanessa CHampion"
+author: "Claire O'Connor & Vanessa Champion"
 
 ##########
 # COLLECTION SETTINGS
