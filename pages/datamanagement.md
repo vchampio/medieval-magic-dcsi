@@ -35,12 +35,21 @@ Our data on CollectionBuilder is being stored within our Google Drive folder as 
 
 # Appendix A: Data Dictionary
 objectid - Unique identifier assigned by project team to reference the object within CollectionBuilder
+
 filename - Name of the file including file type extension within the GitHub repository in the objects folder following the title_museum/source naming convention.
+
 title - Descriptive name of the object, generally given by the repository in which it was initially found, but otherwise assigned by project team to provide a brief descriptive name
+
 date - century of origin of the artifact, exact year included when known but uncommon
+
 description - description of object, generally given by the initial repository
+
 location - country of origin of artifact
+
 source - link to the where within the original repository it was found
+
 format - description of the format the object and data is saved as
+
 language - language of piece if there is text included within the artifact
+
 rights - the licencing rights provided by the repository where it is found, which is in the public domain
